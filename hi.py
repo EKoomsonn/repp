@@ -1,1 +1,1 @@
-print("Everyne will feel it!")
+print("Everyone will feel it!")
