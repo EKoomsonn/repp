@@ -1,1 +1,1 @@
-print("Hello Iran!")
+print("Everyne will feel it!")
